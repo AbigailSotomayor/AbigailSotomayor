@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irene-abigail-sotomayor-mu%C3%B1oz-984556248/">
+  <a href="https://www.linkedin.com/in/abigail-sotomayor-984556248">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:abigail.sotomayor@hotmail.com">
