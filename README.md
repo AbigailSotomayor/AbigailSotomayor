@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer · MSc Computer Science @ DTU</strong><br/>
-  Backend & full-stack development · Test automation · UX design
+  Backend & full-stack development · Test automation 
 </p>
 
 <p align="center">
