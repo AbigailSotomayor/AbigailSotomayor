@@ -78,7 +78,6 @@ I am a computer science graduate with a passion for software development. During
       <p><code>Java</code> <code>Quarkus</code> <code>RabbitMQ</code> <code>Microservices</code> <code>Jenkins</code> <code>Cucumber</code></p>
       <p>🔗 <a href="https://gitlab.gbar.dtu.dk/sdwsgroup12">SDWSGroup12</a> </p>
       
-    </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
