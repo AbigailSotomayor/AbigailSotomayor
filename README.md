@@ -76,6 +76,8 @@ I am a computer science graduate with a passion for software development. During
       <p><strong>DTU · Software Development of Web Services</strong></p>
       <p>Event-driven payment platform enabling transactions between customers and merchants. Microservices architecture with asynchronous communication via RabbitMQ, REST/SOAP integrations, and Jenkins CI/CD with automated testing.</p>
       <p><code>Java</code> <code>Quarkus</code> <code>RabbitMQ</code> <code>Microservices</code> <code>Jenkins</code> <code>Cucumber</code></p>
+      <p>🔗 <a href="https://gitlab.gbar.dtu.dk/sdwsgroup12">SDWSGroup12</a> </p>
+      
     </td>
   </tr>
   <tr>
